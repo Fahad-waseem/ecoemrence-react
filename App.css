@@ -1,0 +1,84 @@
+.thumbnail {
+  padding: 0px;
+  border: none;
+}
+
+.thumbnail .caption {
+  padding: 9px;
+  color: #333;
+  border-right: 1px solid #ddd;
+  border-left: 1px solid #ddd;
+  border-bottom: 1px solid #ddd;
+}
+
+div.thumbnail > div.date_image_holder {
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZfpNCv8fSwftYoSSnzhSWsPcWilBzFdLMMnqgH07oycsRFkQk");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  width: 100%;
+  height: 200px;
+  margin: 0px;
+}
+
+.heart_position {
+  font-size: 30px;
+  color: #FF7175;
+  float: right;
+  margin: 5px 8px 0px 0px;
+}
+/* .main{
+  display: inline;
+  justify-content: center;
+  padding-left: 300px;
+} */
+.thumbnail1{
+  margin-left: 100px;
+}
+.thumbnail3{
+  margin-left: 100px;
+}
+.thumbnail5{
+  margin-left: 100px;
+}
+.thumbnail7{
+  margin-left: 100px;
+}
+.thumbnail8{
+  margin-left:700px ;
+  margin-top: -240px;}
+.thumbnail2{
+  margin-left:700px ;
+  margin-top: -240px;
+
+}
+.thumbnail4{
+  margin-left:700px ;
+  margin-top: -240px;
+
+}
+.thumbnail6{
+  margin-left:700px ;
+  margin-top: -240px;
+
+}
+
+
+.s{
+  justify-content:center  ;
+text-align: center;
+}
+
+/* .a{
+  margin-top: -60px;
+  position: absolute;
+}
+.s{
+  margin-left: 50px;
+  margin-top: -12px;
+  padding: 20px;
+
+}
+.leftSide{
+  margin-top: px;
+} */
